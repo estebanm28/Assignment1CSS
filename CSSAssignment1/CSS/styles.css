@@ -1,0 +1,96 @@
+html,body {
+
+    height: 100%;
+    margin: 0;
+
+}
+
+.container {
+
+    /*background:linear-gradient(to bottom, #2088B0, #000000);*/
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+
+    background-position: center; 
+    /*background-repeat: no-repeat;*/
+    /*height: 210%;*/
+    display:flex;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+   /*align-items: center;--->*/
+    justify-content: center;
+
+}
+
+
+.verse1 {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif, sans-serif;
+    line-height: 1.6;
+    padding: 5%;
+
+}
+
+.verse2 {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+    line-height: 1.6;
+    padding: 5%;
+
+
+}
+
+.verse3 {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    line-height: 1.6;
+    padding: 5%;
+
+}
+
+.verse4 {
+
+    line-height: 1.6;
+    padding: 5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif , sans-serif;
+
+
+}
+
+.verse5{
+
+    line-height: 1.6;
+    padding: 5%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+
+}
+
+.chorus {
+
+    line-height: 1.6;
+    padding: 5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+
+
+}
+
+.bridge {
+
+    line-height: 1.6;
+    padding: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.card {
+
+    background-color: #e1e1e2a1;
+    border-radius: 8px;
+    text-align: -webkit-center;
+
+}
